@@ -6,6 +6,8 @@ img: assets/img/IRS_Logo.png
 importance: 2
 category: Data
 related_publications: false
+chart:
+    plotly: true
 ---
 
 501(c)3 nonprofits serve an incredibly valuable purpose accross a wide range of fields.
@@ -56,7 +58,7 @@ These open source tools, along with trial and error, were able to help me create
 Because running the script allows for quick analysis of decades of information, you can quickly pinpoint trends.
 To analyze these trends I utilized Plotly to create a dynamic, interactive plot.
 
-
+```plotly
 {
   "data": [
     {
@@ -85,7 +87,7 @@ To analyze these trends I utilized Plotly to create a dynamic, interactive plot.
     }
 
 }
-
+```
 
 Taking a quick glance at this plot can show how quickly an individual can gather important information relevant to business success.
 Alternately, you can use this insight to look at how a nonprofit has grown over time or expanded its reach/contributions!
