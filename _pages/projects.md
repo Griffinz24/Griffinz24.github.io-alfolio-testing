@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Here is a brief summary of some of my most interesting experiences and projects! Feel free to inquire more!
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [Data, Engineering, Additional]
 horizontal: false
 ---
 
