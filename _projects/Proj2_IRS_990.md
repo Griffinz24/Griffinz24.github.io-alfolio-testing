@@ -1,11 +1,10 @@
 ---
-layout: page
+layout: post
 title: Nonprofit Performance Analysis
 description: Utilizing IRS Data for Insights
 img: assets/img/IRS_Logo.png
 importance: 2
 category: Data
-related_publications: false
 chart:
     plotly: true
 ---
