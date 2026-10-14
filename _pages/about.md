@@ -37,7 +37,9 @@ I am incredibly invested in helping serve my communities. Whether you are aiming
 Some of my most notable accomplishments include 
 
   • Creating a Python-in-Excel to manage >$4 million in hazardous waste disposition costs for the US Navy.
+
   • Being an involved researcher in ECU's Center for Sustainable Energy and Environmental Engineering.
+  
   • Presenting at regional, local, and nation conferences for water quality research, including at venues such as the United States Naval Academy.
 
 
