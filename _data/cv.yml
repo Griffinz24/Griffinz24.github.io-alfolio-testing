@@ -39,7 +39,7 @@ cv:
       - company: ECU Center for Sustainable Energy and Environmental Engineering
         position: Undergraduate Research Assistant, Etheridge Lab
         location: Greenville, NC
-        start_date: September 2024
+        start_date: Sep 2024
         end_date: Present
         summary: Conducts water resources and environmental research as part of the Etheridge Lab. My focus is on data management and water quality.
         highlights:
@@ -51,7 +51,7 @@ cv:
         position: Environmental Engineering Intern
         location: Jacksonville, FL
         start_date: May 2026
-        end_date: July 2026
+        end_date: Jul 2026
         summary: Assisted with environmental compliance and military construction reviews.
         highlights:
           - Assisted in engineering plan review for large scale military construction throughout the southeast.
@@ -60,8 +60,8 @@ cv:
       - company: Civil Design Concepts, P.A.
         position: Predevelopment Civil/Site Engineering Intern
         location: Asheville, NC
-        start_date: June 2025
-        end_date: August 2025
+        start_date: Jun 2025
+        end_date: Aug 2025
         summary: Focused on site design, regulatory compliance, and geospatial site analysis.
         highlights:
         - Balanced federal, state, and local regulation in the design of high-level site design and planning.
@@ -71,28 +71,24 @@ cv:
       - company: Civil Design Concepts, P.A.
         position: Civil/Site Engineering Intern
         location: Asheville, NC
-        start_date: February 2024
-        end_date: August 2024
+        start_date: Feb 2024
+        end_date: Aug 2024
         highlights:
         - Developed key drafting and site generation skills while still in high school.
         - Administered site visits to ensure plans were followed and violations were addressed in an adequate manner.
 
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
+  
 
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+    # Volunteer:
+    #   - company: People's Climate March
+    #     position: Lead Organizer
+    #     location: Zurich, Switzerland
+    #     start_date: 2014-04-01
+    #     end_date: 2015-07-01
+    #     summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+    #     highlights:
+    #       - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
+    #       - "Men of the year 2014 by Time magazine"
 
     Awards:
       - title: Brinkley Lane Scholars, ECU Honors College
