@@ -24,8 +24,8 @@ cv:
       - institution: East carolina University
         location: Greenville, NC
         url: https://www.ecu.edu/
-        area: Engineering - Civil & Environmental Engineering
-        studyType: BS
+        area: Concentration in Civil & Environmental Engineering
+        studyType: Bachelor of Science, Engineering
         start_date: 2024
         end_date: 2028
         score: "4.0"
@@ -44,7 +44,7 @@ cv:
         summary: Conducts water resources and environmental research as part of the Etheridge Lab. My focus is on data management and water quality.
         highlights:
           - Created and applied code in RStudio to seamlessly analyze data for consolidation and analysis.
-          - - Worked alongside community and federal partners to further mutual goals and apply research findings.
+          - Worked alongside community and federal partners to further mutual goals and apply research findings.
           - Utilized key geospatial analysis skills to categorize and identify land use over 5,000+ acres of watershed.
 
       - company: Naval Facilities Engineering Systems Command Southeast
@@ -104,6 +104,14 @@ cv:
         date: April 2025
         awarder: US Department of Defense
         summary: A leading education-to-workforce development initiative focused on attracting and retaining top technical talent in critical and emerging technologies.
+
+
+      - title: ECU Chancellor's List
+        authors:
+          - East Carolina University
+        date: 2024-Present
+        awarder: East Carolina University
+        summary: This award recognizes a student for maintaining a perfect 4.0 gpa. This record of success indicates my dedication.
 
     # Publications:
     #   - title: Zur Elektrodynamik bewegter Körper

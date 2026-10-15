@@ -7,6 +7,7 @@ importance: 2
 category: Data
 chart:
     plotly: true
+plotly: true
 ---
 
 501(c)3 nonprofits serve an incredibly valuable purpose accross a wide range of fields.

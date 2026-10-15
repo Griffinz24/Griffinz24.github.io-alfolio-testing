@@ -1,6 +1,6 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
 description: Here is a brief summary of some of my most interesting experiences and projects! Feel free to inquire more!
 nav: true
